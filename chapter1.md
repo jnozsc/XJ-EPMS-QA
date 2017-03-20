@@ -28,7 +28,7 @@ A:一般情况下系统会在第一次插入UKey时自动安装,不需要手动�
 
 7.Q:我不知道UKey有没有安装成功，该怎么查看？
 
-A:如果UKey已经安装成功，则能看到如下目录C:\ProgramFiles\EnterSafe\ePass2000Auto\，然后在插入UKey后可在系统的属性栏中看到图标!\[\]\(Ukey-icon.jpg\)；反之，请运行UKey驱动器中的loader.exe即可。
+A:如果UKey已经安装成功，则能看到如下目录C:\ProgramFiles\EnterSafe\ePass2000Auto\，然后在插入UKey后可在系统的属性栏中看到图标![](/assets/img-use-key.jpeg)；反之，请运行UKey驱动器中的loader.exe即可。
 
 8.Q:我的UKey已经插入到电脑，但是看不到UKey的图标,电脑没有识别，该怎么办？
 
